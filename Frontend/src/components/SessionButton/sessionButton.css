@@ -1,0 +1,25 @@
+.session-button {
+    background-color: #e4e4e4;
+    width: 100%;
+    padding: 10px 10px 10px 10px;
+    margin: 5px 5px 5px 5px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+.session-button:hover {
+    background-color: #cacaca;
+}
+.session-button div {
+    display: inline-block;
+    width: 25%;
+    text-align: center;
+    vertical-align: middle;
+}
+.session-button-label {
+    color: black;
+    font-size: 10pt;
+}
+.session-button-label span{
+   color: #3079ed
+}
+

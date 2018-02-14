@@ -1,0 +1,18 @@
+.session-user-device-info {
+    width: 100%;
+}
+.session-info-block {
+    background-color: #272727;
+    padding: 15px 15px 15px 15px;
+    margin: 10px 10px 10px 10px;
+    font-size: 12pt;
+    color: #cacaca;
+    border-radius: 8px;
+    display: inline-block;
+    width: 45%;
+    vertical-align: middle;
+}
+
+.session-info-block span {
+    color: #3079ed;
+}

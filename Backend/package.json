@@ -1,0 +1,43 @@
+{
+  "name": "",
+  "version": "0.0.1",
+  "description": "Application based on Node.js ",
+  "main": "server.js",
+  "author": "Patryk",
+  "scripts": {
+    "start": "node server.js",
+    "build": "npm run build"
+  },
+  "engines": {
+    "node": "6.11.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "crypto": "0.0.3",
+    "express": "^4.15.3",
+    "hooks-fixed": "^2.0.0",
+    "method-override": "^2.3.9",
+    "moment": "^2.20.0",
+    "mongoose": "^4.11.3",
+    "morgan": "^1.8.2",
+    "mpromise": "^0.5.5",
+    "mquery": "^2.3.1",
+    "mysql": "^2.14.1",
+    "node-sass-chokidar": "0.0.3",
+    "npm-run-all": "^4.1.1",
+    "rand-token": "^0.3.0",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-resize-detector": "^0.6.0",
+    "react-router-dom": "^4.1.2",
+    "validator": "^8.1.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.11",
+    "gulp": "^3.9.1",
+    "gulp-livereload": "^3.8.1",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-notify": "^3.0.0",
+    "gulp-server-livereload": "^1.9.2"
+  }
+}

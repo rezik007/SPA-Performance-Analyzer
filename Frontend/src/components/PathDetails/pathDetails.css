@@ -1,0 +1,31 @@
+
+.general-info {
+    width: 100%;
+    display: inline-flex;
+}
+.general-info-label {
+    margin-left: 30px;
+    color: black;
+    font-size: 11pt;
+}
+.general-info-label span{
+   color: #3079ed
+}
+.paths-separator {
+    border-top: 3px solid #3079ed;
+  }
+.content-divs {
+    width: 100%;
+    display: inline-flex;
+}
+.tables-content {
+    width: 65%;
+}
+.dom-changes-content {
+    width: 35%;
+    padding: 0px 10px 10px 10px;
+    border-left: 1px solid #3079ed;
+}
+#chart-container {
+    width: 80%;
+}

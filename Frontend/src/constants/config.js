@@ -1,0 +1,1 @@
+export const apiUrl = 'https://enigmatic-ridge-18595.herokuapp.com';

@@ -1,0 +1,14 @@
+.errors-tables {
+    margin: 50px 30px 50px 30px;
+    display: none;
+}
+@media (max-width: 1300px) {
+    .errors-tables {
+        max-width: 300px;
+    }
+}
+.errors-description {
+    font-size: 11pt;
+    font-weight: bold;
+}
+
